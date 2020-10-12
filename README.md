@@ -1,3 +1,5 @@
+<a href="https://www.buymeacoffee.com/object71" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" alt="Buy Me A Coffee" style="height: 60px !important;width: 217px !important;" ></a>
+
 # Tic-Tac-Bot
 
 Keeping this for reference. Sadly I've written this code in a time when I didn't know what GIT was meaning that the original source files were lost and these files are just the decompiled version of the end result.
